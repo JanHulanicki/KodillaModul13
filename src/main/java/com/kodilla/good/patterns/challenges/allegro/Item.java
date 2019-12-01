@@ -1,4 +1,4 @@
-package com.kodilla.good.patterns.challenges;
+package com.kodilla.good.patterns.challenges.allegro;
 public class Item {
     private String itemName;
     public Item(String itemName) {

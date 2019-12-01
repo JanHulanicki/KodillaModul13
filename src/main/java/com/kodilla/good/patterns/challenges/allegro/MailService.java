@@ -1,4 +1,5 @@
-package com.kodilla.good.patterns.challenges;
+package com.kodilla.good.patterns.challenges.allegro;
+
 class MailService implements InformationService {
     @Override
     public void inform(User user) {

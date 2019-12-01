@@ -1,4 +1,5 @@
-package com.kodilla.good.patterns.challenges;
+package com.kodilla.good.patterns.challenges.allegro;
+
 public  class ProductOrderRequest {
     private User user;
     private Item item;

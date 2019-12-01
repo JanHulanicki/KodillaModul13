@@ -1,4 +1,5 @@
-package com.kodilla.good.patterns.challenges;
+package com.kodilla.good.patterns.challenges.allegro;
+
 public class ProductOrderProcessor {
     private InformationService informationService;
     private ProductOrderingService productOrderingService;
